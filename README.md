@@ -43,7 +43,7 @@ Os dados são captados, processados e enviados via **MQTT** para o Node-RED, ond
 ## **Instruções de Uso**
 
 ### **1. Simulação no Wokwi**
-- Acesse o [link da simulação no Wokwi](#Simulação Wokwi).
+- Acesse o link da simulação no Wokwi no final do README.
 - Confirme que os sensores estão corretamente conectados aos pinos:
   - LDR no **pino 34**
   - Potenciômetro no **pino 35**
