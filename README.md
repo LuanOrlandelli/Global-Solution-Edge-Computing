@@ -118,6 +118,11 @@ Os dados são captados, processados e enviados via **MQTT** para o Node-RED, ond
 
 ---
 
+## **Link para o vídeo**
+*https://drive.google.com/file/d/1ad4r6_If1b94YWsYXKqnMFRuqXji7UZQ/view?usp=sharing*
+
+---
+
 ## **Contribuições Futuras**
 
 - Integração com sistemas de automação para ajuste automático de cargas elétricas.  
