@@ -1,7 +1,7 @@
 # Global Solution Edge Computing
 Projeto Global Solution Edge Computing 2° Semestre
 
-##Sistema de Auxílio para Energia Renovável com ESP32 e Node-RED
+## **Sistema de Auxílio para Energia Renovável com ESP32 e Node-RED**
 
 ## **Integrantes do Grupo**
 - **Luan Orlandelli Ramos** - RM: 554747  
