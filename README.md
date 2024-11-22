@@ -24,7 +24,7 @@ O sistema utiliza um ESP32 para monitorar dois sensores:
 1. **LDR (Light Dependent Resistor)** - Mede a quantidade de luz solar captada pelas placas solares.  
 2. **Potenciômetro** - Simula o consumo de energia de uma residência.  
 
-Os dados captados são enviados via **MQTT** para o Node-RED, onde são processados e exibidos em dashboards interativos com gráficos e indicadores. O sistema analisa os dados recebidos e fornece alertas para orientar o usuário:
+Os dados são captados, processados e enviados via **MQTT** para o Node-RED, onde são exibidos em dashboards interativos com gráficos e indicadores. O sistema analisa os dados recebidos e fornece alertas para orientar o usuário:
 
 - **Consumo elevado e baixa luz solar**: Alertar para economizar energia.  
 - **Consumo baixo e alta luz solar**: Indicar que é possível usar mais energia.  
